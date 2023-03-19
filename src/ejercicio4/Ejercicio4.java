@@ -23,7 +23,7 @@ public class Ejercicio4 {
      triple=num*3;
      raiz=Math.sqrt(num);
         System.out.println(raiz);
-             
+         System.out.println("Esta es la primera modificacion");    
         
     }
     
